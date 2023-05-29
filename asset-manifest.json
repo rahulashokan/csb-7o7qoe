@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://rahulashokan.github.io/csb-7o7qoe/static/js/main.20f976fd.chunk.js",
+    "main.js.map": "https://rahulashokan.github.io/csb-7o7qoe/static/js/main.20f976fd.chunk.js.map",
+    "runtime-main.js": "https://rahulashokan.github.io/csb-7o7qoe/static/js/runtime-main.7ef52978.js",
+    "runtime-main.js.map": "https://rahulashokan.github.io/csb-7o7qoe/static/js/runtime-main.7ef52978.js.map",
+    "static/js/2.07804c07.chunk.js": "https://rahulashokan.github.io/csb-7o7qoe/static/js/2.07804c07.chunk.js",
+    "static/js/2.07804c07.chunk.js.map": "https://rahulashokan.github.io/csb-7o7qoe/static/js/2.07804c07.chunk.js.map",
+    "index.html": "https://rahulashokan.github.io/csb-7o7qoe/index.html",
+    "static/js/2.07804c07.chunk.js.LICENSE.txt": "https://rahulashokan.github.io/csb-7o7qoe/static/js/2.07804c07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ef52978.js",
+    "static/js/2.07804c07.chunk.js",
+    "static/js/main.20f976fd.chunk.js"
+  ]
+}
